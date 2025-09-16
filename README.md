@@ -1,4 +1,4 @@
-# Licitacao Londrina
+# Licitacao Londrina - Em Desenvolvimento
 
 Este projeto automatiza testes de interface para o portal de licitações de Londrina utilizando Playwright.
 
